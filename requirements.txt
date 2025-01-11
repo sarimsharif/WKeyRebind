@@ -1,0 +1,2 @@
+pyautogui
+auto-py-to-exe
